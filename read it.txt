@@ -1,0 +1,21 @@
+1.-->
+import database  with name users
+open localhost/phpmyadmin
+click on new db
+select import on the horizontal tabs
+select users.sql file
+click on go
+2-->
+run
+localhost/login.php
+
+3->>
+read comments in the file :)
+
+4-->
+copyrights saideep :P :P :P 
+
+5--> 
+haha 
+
+
